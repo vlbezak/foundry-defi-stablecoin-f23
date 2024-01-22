@@ -1,3 +1,14 @@
+# Stablecoin
+1. Relative stability: Anchored or Pegged -> $1
+    1. Chainlink Price Feed
+    2. Set a function to exchange ETH & BTC -> $$$
+2. Stability Mechanish (Minting): Algorithmic (Decentralized)
+    1. People can only mint the srablecoin with enough collateral
+3. Collateral: Exogenous (Crypto)
+    1. ETH (WETH)
+    2. BTC (WBTC)
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
